@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projeto-guiado-aula-logica-a-aplicacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74d02bf0ffedce444d048d0d3d95e941a5af4300")]
 [assembly: System.Reflection.AssemblyProductAttribute("projeto-guiado-aula-logica-a-aplicacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projeto-guiado-aula-logica-a-aplicacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

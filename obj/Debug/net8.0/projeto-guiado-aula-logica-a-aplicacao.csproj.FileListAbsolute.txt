@@ -1,0 +1,15 @@
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\bin\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.exe
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\bin\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.deps.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\bin\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.runtimeconfig.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\bin\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\bin\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\obj\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\obj\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.AssemblyInfoInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\obj\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.AssemblyInfo.cs
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\obj\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.csproj.CoreCompileInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\obj\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.sourcelink.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\obj\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\obj\Debug\net8.0\refint\projeto-guiado-aula-logica-a-aplicacao.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\obj\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\obj\Debug\net8.0\projeto-guiado-aula-logica-a-aplicacao.genruntimeconfig.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Projeto guiado 1\projeto-guiado-aula-logica-a-aplicacao\obj\Debug\net8.0\ref\projeto-guiado-aula-logica-a-aplicacao.dll

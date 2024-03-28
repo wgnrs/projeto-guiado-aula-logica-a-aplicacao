@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "projeto-guiado-aula-logica-a-aplicacao/1.0.0": {
+        "runtime": {
+          "projeto-guiado-aula-logica-a-aplicacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projeto-guiado-aula-logica-a-aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
